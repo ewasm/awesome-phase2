@@ -30,6 +30,7 @@ A curated list of awesome things related to Eth2 Phase2
 
 *Scout is a Ethereum 2.0 Phase 2 execution prototyping engine*
 
+- [Phase 2 execution prototyping engine](https://ethresear.ch/t/phase-2-execution-prototyping-engine-ewasm-scout/5509)
 - [scout](https://github.com/ewasm/scout) in Rust
 - [scout.ts](https://github.com/ewasm/scout.ts) in Typescript
 
