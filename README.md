@@ -18,6 +18,7 @@ A curated list of awesome things related to Eth2 Phase2
 ## Fee Market
 
 - [One fee market EE to rule them all](https://ethresear.ch/t/one-fee-market-ee-to-rule-them-all/5608)
+- [State providers, relayers - bring back the mempool](https://ethresear.ch/t/state-providers-relayers-bring-back-the-mempool/5647/12)
 
 ## License
 
