@@ -8,6 +8,9 @@ A curated list of awesome things related to Eth2 Phase2
 
 - [Proposals](#proposals)
 - [Fee market](#fee-market)
+- [Prototyping](#prototyping)
+  - [Scout](#scout)
+  - [Execution environments](#execution-environments)
 
 ## Proposals
 
@@ -19,6 +22,20 @@ A curated list of awesome things related to Eth2 Phase2
 
 - [One fee market EE to rule them all](https://ethresear.ch/t/one-fee-market-ee-to-rule-them-all/5608)
 - [State providers, relayers - bring back the mempool](https://ethresear.ch/t/state-providers-relayers-bring-back-the-mempool/5647/12)
+
+## Prototyping
+
+### Scout
+
+*Scout is a Ethereum 2.0 Phase 2 execution prototyping engine*
+
+- [scout](https://github.com/ewasm/scout) in Rust
+- [scout.ts](https://github.com/ewasm/scout.ts) in Typescript
+
+### Execution Environments
+
+- [Jungle Token](https://github.com/poemm/stateless_merkle_token)
+- [Sheth](https://github.com/lightclient/sheth)
 
 ## License
 
