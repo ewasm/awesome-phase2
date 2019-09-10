@@ -1,4 +1,7 @@
 # Awesome Phase2
+
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 A curated list of awesome things related to Eth2 Phase2
 
 ## License
