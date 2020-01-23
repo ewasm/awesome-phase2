@@ -47,7 +47,7 @@ A curated list of awesome things related to Eth2 Phase2
 ### Execution Environments
 
 - [Biturbo](https://github.com/ewasm/biturbo)
-- [Jungle Token](https://github.com/poemm/stateless_merkle_token)
+- [Stateless KMM Token](https://github.com/poemm/stateless_kmm_token)
 - [sheth](https://github.com/quilt/sheth)
 - [ce-playground](https://github.com/ewasm/ce-playground) (a collection of smaller experiments)
 - [daiquiri](https://github.com/jwasinger/daiquiri)
