@@ -18,6 +18,8 @@ A curated list of awesome things related to Eth2 Phase2
 - [Phase 2 proposal 1](https://ethresear.ch/t/a-layer-1-minimizing-phase-2-state-execution-proposal/5397) ([hackmd](https://notes.ethereum.org/@vbuterin/HylpjAWsE?type=view#))
 - [Proposed further simplifications/abstraction for phase 2](https://ethresear.ch/t/proposed-further-simplifications-abstraction-for-phase-2/5445)
 - [Phase 2 proposal 2](https://notes.ethereum.org/@vbuterin/Bkoaj4xpN?type=view)
+- [Alternate phase 2 architecture proposal](https://notes.ethereum.org/YNnC-fakRxixbMCTEnNDXQ?view)
+- [Eth2 shard chain simplification proposal](https://notes.ethereum.org/@vbuterin/HkiULaluS) (mostly phase 1 changes with the goal of simplifying phase 2)
 
 ## Fee Market
 
