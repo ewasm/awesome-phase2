@@ -7,7 +7,7 @@ A curated list of awesome things related to Eth2 Phase2
 ## Contents
 
 - [Proposals](#proposals)
-- [Cross-shard transfers)(#cross-shard-transfers)
+- [Cross-shard transfers](#cross-shard-transfers)
 - [Fee market](#fee-market)
 - [Prototyping](#prototyping)
   - [Scout](#scout)
