@@ -7,6 +7,7 @@ A curated list of awesome things related to Eth2 Phase2
 ## Contents
 
 - [Proposals](#proposals)
+- [Cross-shard transfers)(#cross-shard-transfers)
 - [Fee market](#fee-market)
 - [Prototyping](#prototyping)
   - [Scout](#scout)
@@ -20,6 +21,13 @@ A curated list of awesome things related to Eth2 Phase2
 - [Phase 2 proposal 2](https://notes.ethereum.org/@vbuterin/Bkoaj4xpN?type=view)
 - [Alternate phase 2 architecture proposal](https://notes.ethereum.org/YNnC-fakRxixbMCTEnNDXQ?view)
 - [Eth2 shard chain simplification proposal](https://notes.ethereum.org/@vbuterin/HkiULaluS) (mostly phase 1 changes with the goal of simplifying phase 2)
+
+## Cross-shard transfers
+
+- [Implementing cross-shard transactions](https://ethresear.ch/t/implementing-cross-shard-transactions/6382)
+- [Moving ETH between shards: the problem statement](https://ethresear.ch/t/moving-eth-between-shards-the-problem-statement/6597)
+- [A meta-execution environment for cross-shard ETH transfers](https://ethresear.ch/t/a-meta-execution-environment-for-cross-shard-eth-transfers/6656)
+- [An even simpler meta-execution environment for ETH](https://ethresear.ch/t/an-even-simpler-meta-execution-environment-for-eth/6704)
 
 ## Fee Market
 
